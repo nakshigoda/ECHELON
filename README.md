@@ -319,9 +319,4 @@ Open your browser and navigate to `http://localhost:8501`.
 * [ ] **Explainable AI (SHAP Integration):** Add local Shapley Additive Explanations (SHAP) waterfall plots to provide individualized feature contribution breakdowns for any manual input.
 * [ ] **Live IIoT Protocol Integration:** Connect telemetry ingestion directly to MQTT or OPC-UA broker streams from industrial PLCs.
 
----
 
-## Author
-
-* **Project:** ECHELON — Predictive Maintenance Analytics
-* **Focus:** Python · Machine Learning · Predictive Analytics · Industrial Data Science
